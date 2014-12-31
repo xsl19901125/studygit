@@ -6,6 +6,7 @@ public class TestMain {
 		System.out.println("study gits");
 		System.out.println("My Study");
 		System.out.println("╪ссм");
+		TestLog.print();
 
 	}
 
